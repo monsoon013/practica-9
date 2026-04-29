@@ -1,7 +1,7 @@
 {
   "name": "practica-9-agenda",
   "version": "1.0.0",
-  "description": "",
+  "description": "Práctica 9: Agenda, 2026.04.29",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/monsoon013/practica-9.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "monsoon013",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/monsoon013/practica-9/issues"
