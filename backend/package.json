@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/monsoon013/practica-9#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "5.2.1",
+    "body-parser": "2.2.2",
+    "cors": "2.8.6"
   }
 }
