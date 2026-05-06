@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+:root{
+    --drk-green: #0c1617;
+    --brown-reddish:#592b22;
+    --cream: #f0e5d1;
+    --light-red: #842a2b;
+    --rosa-palo: #c2736a;
+    --primary-font: 'Manrope', sans-serif;
+    --secondary-font: "Lora", sans-serif;
+    --muted: #842a2c36;
+    
+
+    
+}

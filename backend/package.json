@@ -1,7 +1,7 @@
 {
   "name": "practica-9-agenda",
   "version": "1.0.0",
-  "description": "Práctica 9: Agenda, 2026.04.29",
+  "description": "Práctica 9: Agenda sin conexión a base de datos, 2026.04.29",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
